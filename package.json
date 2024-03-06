@@ -36,6 +36,6 @@
     "vite": "^5.1.5"
   },
   "publishConfig": {
-    "@kova:registry": "https://npm.pkg.github.com"
+    "@hubertryanofficial:registry": "https://npm.pkg.github.com"
   }
 }
