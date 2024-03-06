@@ -1,0 +1,31 @@
+{
+  "name": "kova-render",
+  "version": "1.0.0",
+  "description": "A render component library to render contents from kova CMS",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build && tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hubertryanofficial/kova-render.git"
+  },
+  "keywords": [
+    "cms",
+    "render",
+    "contents",
+    "kova"
+  ],
+  "author": "Hubert Ryan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hubertryanofficial/kova-render/issues"
+  },
+  "homepage": "https://github.com/hubertryanofficial/kova-render#readme",
+  "devDependencies": {
+    "@types/react": "^18.2.63",
+    "react": "^18.2.0",
+    "typescript": "^5.3.3",
+    "vite": "^5.1.5"
+  }
+}
