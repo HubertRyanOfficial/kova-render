@@ -1,8 +1,14 @@
 {
-  "name": "kova-render",
+  "name": "@kova/render",
   "version": "1.0.0",
+  "private": false,
   "description": "A render component library to render contents from kova CMS",
-  "main": "index.js",
+  "main": "dist/index.umd.js",
+  "module": "dist/index.mjs",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "vite build && tsc"
   },
